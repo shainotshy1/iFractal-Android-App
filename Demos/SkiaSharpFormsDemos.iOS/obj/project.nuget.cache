@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/LbERtiC4AMzRDNVZfnM8OX6+kxXBOA9gGlOYffoNRisioGKhLgwkP4gtwVCbouldKwr6IC17kshpP5JfmQDgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shaij\\Downloads\\Xamarin_Forms___SkiaSharp_and_Xamarin_Forms (2)\\Demos\\SkiaSharpFormsDemos.iOS\\SkiaSharpFormsDemos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shaij\\.nuget\\packages\\skiasharp\\1.60.0\\skiasharp.1.60.0.nupkg.sha512",
+    "C:\\Users\\shaij\\.nuget\\packages\\skiasharp.views\\1.60.0\\skiasharp.views.1.60.0.nupkg.sha512",
+    "C:\\Users\\shaij\\.nuget\\packages\\skiasharp.views.forms\\1.60.0\\skiasharp.views.forms.1.60.0.nupkg.sha512",
+    "C:\\Users\\shaij\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
